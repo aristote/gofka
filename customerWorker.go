@@ -2,6 +2,7 @@
 /*
  * SIMPLE GOLANG MICROSERVICE TESTER
  * (c) jme 2018
+ * git test
  */
 
  package main
