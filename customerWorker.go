@@ -1,6 +1,7 @@
 
 /*
  * SIMPLE GOLANG MICROSERVICE TESTER
+ * (c) jme 2018
  */
 
  package main
